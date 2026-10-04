@@ -1,0 +1,8 @@
+{
+  "name": "!ufuktok",
+  "description": "CloudStream 3 icin bos eklenti sablonu",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/ufuktok81-ux/ufuktok/builds/plugins.json"
+  ]
+}
